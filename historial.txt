@@ -1,0 +1,78 @@
+    1  ls
+    2  whoami
+    3  pwd
+    4  man man
+    5  ls -l
+    6  ls -a
+    7  ls -la
+    8  echo "hola"
+    9  echo hola
+   10  echo $HOME
+   11  ls
+   12  cd repogit/
+   13  ls
+   14  ls -la
+   15  cd ..
+   16  ls
+   17  cat README
+   18  clear
+   19  git clone https://github.com/agmorante/Morante_Vagrant.git
+   20  ls
+   21  cat README 
+   22  ls
+   23  history
+   24  history > historial.txt
+   25  ls
+   26  cat historial.txt 
+   27  git status
+   28  cd ..
+   29  ls
+   30  cd vagrant/
+   31  ls
+   32  cd Morante_Vagrant/
+   33  LS
+   34  ls
+   35  man man
+   36  man -K delete
+   37  lsls
+   38  ls
+   39  clear
+   40  ls
+   41  lsss
+   42  ls
+   43  rm historial.txt
+   44  ls
+   45  cd Morante_Vagrant/
+   46  history > historial.txt
+   47  ls
+   48  cat historial.txt 
+   49  git status
+   50  git add .
+   51  git status
+   52  git commit -m "Mi primer commit"
+   53  --global user.email "n.a.morante29@gmail.com"
+   54  git config --global user.email "n.a.morante29@gmail.com"
+   55  git config --global user.name "agmorante"
+   56  git commit -m "Mi primer commit"
+   57  git push
+   58  exit
+   59  ls
+   60  ls -la
+   61  ssh-keygen -t ed25519
+   62  ls
+   63  ls -la
+   64  cd .ssh
+   65  ls
+   66  cat id_ed25519
+   67  cat id_ed25519.pub
+   68  ls
+   69  cd ..
+   70  ls
+   71  cd repogit/
+   72  ls
+   73  git clone git@github.com:agmorante/Morante_Vagrant.git
+   74  ls
+   75  cd Morante_Vagrant/
+   76  ls
+   77  history
+   78  history > historial.txt
